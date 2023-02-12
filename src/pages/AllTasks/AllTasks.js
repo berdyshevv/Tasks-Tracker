@@ -1,3 +1,3 @@
 export const AllTasks = () => {
-  return <>AllTasks</>
-}
+  return <>AllTasks</>;
+};
