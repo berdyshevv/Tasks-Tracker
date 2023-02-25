@@ -4,7 +4,7 @@ import AllTasks from './pages/AllTasks';
 function App() {
   return (
     <div className="App">
-      <AllTasks/>
+      <AllTasks />
     </div>
   );
 }
